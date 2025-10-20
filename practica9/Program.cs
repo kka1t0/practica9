@@ -10,6 +10,7 @@ namespace practica9
     {
         static void Main(string[] args)
         {
+            Person person = new Person();
         }
     }
 }
