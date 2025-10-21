@@ -11,6 +11,11 @@ namespace practica9
         static void Main(string[] args)
         {
             Person person = new Person();
+            person.Name = "Егор";
+            person.Age = 17;
+            person.SayHello();
+
+
         }
     }
 }
