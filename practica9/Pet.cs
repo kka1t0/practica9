@@ -18,7 +18,7 @@ namespace practica9
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    Console.WriteLine("Имя петомца не может быть пустым");
+                    Console.WriteLine("Имя питомца не может быть пустым");
                 }
                 else
                 {
