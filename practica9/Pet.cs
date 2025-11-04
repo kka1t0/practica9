@@ -51,7 +51,7 @@ namespace practica9
             }
             else
             {
-                Console.WriteLine("Начальная энергия петомца меньше 20");
+                Console.WriteLine("Начальная энергия питомца меньше 20");
             }
         }
         public void Rest()
@@ -63,7 +63,7 @@ namespace practica9
             }
             else
             {
-                Console.WriteLine("Начальная энергия петомца больше 70");
+                Console.WriteLine("Начальная энергия питомца больше 70");
             }
         }
     }
